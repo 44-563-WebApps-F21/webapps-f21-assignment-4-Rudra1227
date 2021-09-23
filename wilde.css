@@ -1,0 +1,65 @@
+.speech {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color: yellow;
+}
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: greenyellow;
+}
+.stage_directions {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: violet
+    background-color: honeydew;
+}
+.GWENDOLEN{
+    color: blue;
+}
+.CECILY{
+    color: rgba(139, 0, 139, 0.918);
+}
+.ALGERNON{
+    color: rgba(0, 206, 209, 0.815);
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid blue;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #e91e1e;
+  }
+  h5:hover {
+      background-color: indigo;
+      border-style:dotted;
+      text-shadow: lavender 3px 3px;
+  }
+  ul.navbar-horizontal 
+  {
+      list-style-type: none;margin: 0;
+      padding: 0;
+    }
+    ul.navbar-horizontal li
+     {
+         float:left; 
+         color:#000;
+         background-color:rgb(61, 216, 164)
+        }
+        ul.navbar-horizontal a
+         {
+             display:block;padding:8px
+         }
+         ul.navbar-horizontal a:hover 
+         {  
+             background-color: rgb(243, 205, 205);
+             color:white;
+            }
